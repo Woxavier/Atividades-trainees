@@ -9,5 +9,5 @@
 ## Sugestões de novas atividades:
 
 * Gerente de projetos - Atividade focada em demonstrar os procedimentos realizados por um gerente de projetos (criação de issues e milestones, divisão de equipe...);
-* Atividades focadas nos novos eixos de Modelagem e Pesquisa - Aberta a sugestões pois ainda não sabemos exatamente será na prática as atividades de cada eixo;
+* Atividades focadas nos novos eixos de Modelagem e Pesquisa - Aberta a sugestões pois ainda não sabemos exatamente como será na prática as atividades de cada eixo;
 * Precifiacão - Incrementar na atividade que já existe o método de precificação de interfaces.
